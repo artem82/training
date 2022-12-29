@@ -2,7 +2,8 @@
 
 <a href="https://www.youtube.com/channel/UCcq9onYHbs6go3kDpfBoqhg?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/kvazis/training/master/lessons/img/subscribe.png" alt="Subscribe" style="height: 71px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-### [Beelink GK Mini на Celeron J4125 - обзор, легкая установка Home Assistant OS - пошаговая инструкция](https://youtu.be/i4bp-s20Dm8)    
+### [Beelink GK Mini на Celeron J4125 - обзор, легкая установка Home Assistant OS - пошаговая инструкция](https://youtu.be/i4bp-s20Dm8)  
+### [Установка Ubuntu 20.04 LTS и Home Assistant Supervised на мини пк GK3V. Проще, удобнее, красивее.](https://www.youtube.com/watch?v=6l8swO5H-9s)  
 
 
 #### Команды и ссылки из урока:    
@@ -10,7 +11,7 @@
 :white_check_mark: **Оригинальная инструкция** - [Community Home Assistant Forum](https://community.home-assistant.io/t/installing-home-assistant-supervised-on-debian-11/200253#installing-home-assistant-supervised-on-debian-11-1)    
 
 :white_check_mark: **Официальный репозиторий Debian 11** - [Загрузка образа](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)    
-:white_check_mark: **Неофициальный репозиторий Debian 11 non-free с драйверами** - [Загрузка образа](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.5.0+nonfree/amd64/iso-dvd/)    
+:white_check_mark: **Неофициальный репозиторий Debian 11 non-free с драйверами** - [Загрузка образа](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.6.0+nonfree/amd64/iso-dvd/)    
 
 :white_check_mark: **Удобный SSH клиент** - [Putty](https://www.putty.org/)    
 
